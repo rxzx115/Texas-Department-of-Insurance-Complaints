@@ -11,7 +11,7 @@ Guiding questions:
     - What are the distributions of complaints and resolution times?
 
 
-Data collection: To retrieve data from Data.gov
+Data collection: To retrieve data from data.gov
 
 
 Data cleaning:
