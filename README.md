@@ -1,6 +1,6 @@
 # Texas-Department-of-Insurance-Complaints
 
-Objective: To understand how factors such as the company listed on the complaint, the channel filing the complaint, and the type of complaint impact the volume of complaints and the length of response times to enhance customer satisfaction and reducing operational inefficiencies
+Objective: To understand how factors such as the company listed on the complaint, the channel filing the complaint, and the type of complaint impact the volume of complaints and the length of response times to enhance customer satisfaction
 
 
 Guiding questions:
