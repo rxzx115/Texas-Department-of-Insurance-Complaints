@@ -35,5 +35,5 @@ Insights and recommendations:
         - Conduct a deeper dive with State Farm and Allstate to identify recurring issues and areas for process improvement.
     2) The complaints by type data indicates that property and casualty is the most frequent type of insurance complaint.
         - Analyze the common reasons to understand the underlying issues and develop targeted solutions or preventative measures.
-    3) The response rates by top company data reveals substantial differences in the average days to respond to complaints among the top companies. Allstate has a notably higher average response time compared to State Farm and other listed companies.
-        - Investigate Allstate's complaint handling process to identify bottlenecks and inefficiencies contributing to the longer response times. Implement strategies to streamline their process and improve responsiveness, potentially by allocating more resources or optimizing workflows.
+    3) Allstate has a notably higher average response time compared to State Farm and other listed companies.
+        - Implement strategies to streamline their process and improve responsiveness, potentially by allocating more resources or optimizing workflows.
