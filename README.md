@@ -1,6 +1,6 @@
 # Texas-Department-of-Insurance-Complaints
 
-Objective: To understand how factors such as the company listed on the complaint, the channel filing the complaint, and the type of complaint impact the volume of complaints and the length of response times to enhance customer satisfaction
+Objective: To understand how factors such as the company listed on the complaint, the channel filing the complaint, and the type of complaint impact the volume of complaints and the length of response times to promote customer satisfaction as a government agency
 
 
 Guiding questions:
@@ -31,9 +31,9 @@ Data visualization
 
 
 Insights and recommendations: 
-    1) The complaints by top company data shows that State Farm had the highest number of complaints, followed by Allstate in multiple years.
-        - Conduct a deeper dive with State Farm and Allstate to identify recurring issues and areas for process improvement.
-    2) The complaints by type data indicates that property and casualty is the most frequent type of insurance complaint.
-        - Analyze the common reasons to understand the underlying issues and develop targeted solutions or preventative measures.
-    3) Allstate has a notably higher average response time compared to State Farm and other listed companies.
-        - Implement strategies to streamline their process and improve responsiveness, potentially by allocating more resources or optimizing workflows.
+    1) State Farm has the highest volume of complaints.
+        - Initiate a targeted review of State Farm's business practices, claims handling procedures, and customer service protocols to identify the root causes of the high complaint volume. This could involve audits, surveys of policyholders, and analysis of the specific types of complaints received.
+    2) Aetna Life Insurance Company has the quickest complaint response rate.
+        - Study Aetna's complaint handling processes to identify best practices in efficient resolution. These successful strategies could be shared with or mandated for other insurance companies to improve overall responsiveness within the industry.
+    3) Health Maintenance Organizations (HMOs) have the longest average response time for complaints.
+        - Implement specific regulations or guidelines for HMO complaint resolution timelines, potentially setting maximum allowable response days. Investigate the reasons for these delays, which could include complex approval processes or network issues, and consider interventions to streamline these processes.
